@@ -1,5 +1,1 @@
-Group 22 - CS147
-
-Team Avengers, SpotiBeat
-
-Tyler Nguyen and Arkin Verma
+"# CS147-Group-22-Final" 
